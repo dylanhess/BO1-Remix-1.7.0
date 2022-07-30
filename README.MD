@@ -1,14 +1,5 @@
 # Call of Duty: Black Ops Zombies - Remix
 
-## Download
-
-[Download](https://www.mediafire.com/file/5u4g0dxdnf7rsjw/BO1-Remix.zip/file)
-
-## How to Install
-
-[Automatic](https://github.com/5and5/BO1-Remix/releases/tag/Installer)
-
-[Manual](https://github.com/5and5/BO1-Remix/releases)
 
 ## Leaderboards
 
@@ -28,7 +19,7 @@
 - Starting points changed from 500 to 555
 - Enabled sprint while drinking perks
 - Removed player quotes
-- "Reset" now happens at exactly 12 hours
+- max reset
 
 ## HUD
 
